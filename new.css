@@ -1,0 +1,22 @@
+html,body {
+	height: 100%;
+	margin: 0px;
+}
+body {
+	background: #2c3e50;
+	color: white;
+	font-size: 80px;
+	text-align: center;	
+	transition: all .20s;
+	 position: relative;
+}
+i {
+position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.highlight {
+	background-color: #c0392b;
+}
